@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://exquisite-beijinho-3598ad.netlify.app/)
+- Solution URL: [Add solution URL here](https://github.com/masum-hosen/Age-calculator-appyour-solution-url.com)
 
 ## My process
 
